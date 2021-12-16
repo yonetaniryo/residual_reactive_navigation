@@ -1,0 +1,10 @@
+torch
+gym
+box2d
+box2d-kengz
+tensorboardX
+opencv-python
+six
+termcolor
+matplotlib
+scipy
